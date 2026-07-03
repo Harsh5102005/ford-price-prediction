@@ -155,6 +155,8 @@ The enhanced notebook generates:
 - **Missing Values**: Dataset checked and no missing values found
 
 ## Author
+**Name:** Harsh Maurya
+**Course:** MCA
 
 Created for Ford vehicle price analysis and prediction
 
@@ -170,7 +172,7 @@ Open for educational and analysis purposes
 
 **Version:** 1.0 (Enhanced)
 
-**GitHub Repository:** [Ford-Price-Prediction](https://github.com/yourusername/Ford-Price-Prediction)
+**GitHub Repository:** [Ford-Price-Prediction](https://github.com/Harsh5102005/ford-price-prediction)
 
 **Author:** Harsh
 
