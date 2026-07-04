@@ -27,15 +27,13 @@ This project performs exploratory data analysis (EDA) on Ford vehicle data and p
 
 ```
 Ford/
-├── README.md                          # Project documentation
-├── Price_Prediction_Enhanced.ipynb    # Enhanced main analysis notebook (RECOMMENDED)
-├── Price Prediction.ipynb             # Original analysis notebook
-├── Untitled.ipynb                     # Initial EDA notebook
-├── ANALYSIS_INSIGHTS.md               # Detailed insights and improvements
-├── ford.csv                           # Dataset with Ford vehicle data
-├── requirements.txt                   # Python dependencies
-├── .gitignore                         # Git ignore patterns
-└── data/                              # (Optional) Directory for processed data
+├── README.md                          
+├── Price_Prediction.ipynb            
+├── ANALYSIS_INSIGHTS.md               
+├── ford.csv                           
+├── requirements.txt                   
+├── .gitignore                         
+└── data/                              
 ```
 
 ## Analysis Workflow
@@ -91,12 +89,6 @@ Ford/
 4. **Execute all cells** to reproduce the analysis:
    - Use `Kernel → Restart & Run All` in Jupyter
    - Or run cells sequentially using Shift+Enter
-
-### Notebook Options
-
-- **Price_Prediction_Enhanced.ipynb** - Recommended version with comprehensive documentation, better structure, and fixed Model 2 implementation
-- **Price Prediction.ipynb** - Original analysis notebook
-- **Untitled.ipynb** - Initial EDA exploration
 
 ## Technologies Used
 
